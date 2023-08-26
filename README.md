@@ -1,2 +1,2 @@
 # Quotes-Master
--- random quote generator  -- tweet post   -- open API
+-- random quote generator  -- tweet post   
